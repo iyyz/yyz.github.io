@@ -1,12 +1,10 @@
 ## 欢迎进入悠洋子工作室
 
-You can use the [editor on GitHub](https://github.com/iyyz/yyz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+欢迎关注工作室官方网站 [悠洋子工作室](http://aiyz.ltd) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 微信公众号平台
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+微信搜索【悠洋子】即可关注微信公众平台.
 
 ```markdown
 Syntax highlighted code block
